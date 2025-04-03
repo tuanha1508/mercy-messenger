@@ -2,7 +2,7 @@
 
 A real-time messaging application for communication between volunteers, staff, and adopters at Mercy Full Project.
 
-![Mercy Full Project Banner](https://mercyfullprojects.org/wp-content/uploads/2022/11/cropped-Screen-Shot-2022-11-07-at-9.46.35-AM-1.png)
+![Mercy Full Project Banner]([https://mercyfullprojects.org/wp-content/uploads/2022/11/cropped-Screen-Shot-2022-11-07-at-9.46.35-AM-1.png](https://mercyfullprojects.org/about/))
 
 ## Overview
 
