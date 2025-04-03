@@ -27,7 +27,7 @@ This script:
 MongoDB Compass is a GUI tool for exploring your database:
 
 1. Download and install [MongoDB Compass](https://www.mongodb.com/products/compass) 
-2. Connect using the URI: `mongodb+srv://tuanafk2006:qI0gyTH1bvtFbKrc@cluster0.wg54m5e.mongodb.net/mercy-messenger`
+2. Connect using the URI: ``
 3. Browse the collections to see your data:
    - `users` - Contains user accounts
    - `chatrooms` - Contains chat rooms
